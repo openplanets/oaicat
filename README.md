@@ -1,6 +1,8 @@
 OAICat
 ======
 
+**NOTE**: This is a copy of the [original OAICat](http://www.oclc.org/research/activities/oaicat.html) version 1.5.61 with maven build support.
+
 The OAICat Open Source Software (OSS) project is a Java Servlet web application providing a repository framework that conforms to the Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH) v2.0. This framework can be customized to work with arbitrary data repositories by implementing some Java interfaces. Demonstration implementations of these interfaces are included in the webapp distribution. For information about the OAICat-based software that allows museums to disclose descriptions of collection items and pointers to digital surrogates, see the Museum Data Exchange page.
 
 ## Background
